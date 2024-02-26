@@ -1,4 +1,4 @@
-import { ComponentProps, ComponentPropsWithRef, forwardRef } from "react";
+import { ComponentPropsWithRef, forwardRef } from "react";
 
 export type BoxProps = ComponentPropsWithRef<"div">;
 
